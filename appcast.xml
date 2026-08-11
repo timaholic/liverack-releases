@@ -6,6 +6,16 @@
         <description>LiveRack updates</description>
         <language>en</language>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Mon, 10 Aug 2026 19:18:26 -0600</pubDate>
+            <link>https://github.com/timaholic/liverack-releases/releases</link>
+            <sparkle:version>0.1.7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/timaholic/liverack-releases/releases/download/v0.1.7/LiveRack-0.1.7.dmg" length="4453039" type="application/octet-stream" sparkle:edSignature="VwtzyY0fvL6SrC7SeSk66Z710bUPbce5c2IS8vUsA2rXHjXR7RHawnci2vyq7jIDMvtmuXkO4LnMIh81zAW2CA=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Mon, 10 Aug 2026 19:05:17 -0600</pubDate>
             <link>https://github.com/timaholic/liverack-releases/releases</link>
