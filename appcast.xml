@@ -6,6 +6,16 @@
         <description>LiveRack updates</description>
         <language>en</language>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Wed, 12 Aug 2026 16:04:21 -0600</pubDate>
+            <link>https://github.com/timaholic/liverack-releases/releases</link>
+            <sparkle:version>0.4.0</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/timaholic/liverack-releases/releases/download/v0.4.0/LiveRack-0.4.0.dmg" length="5665565" type="application/octet-stream" sparkle:edSignature="22/QOhlpxZYoKdvJOjgreMkrJlgkGrmxFJThfiOOhKJKImHCGBDmcIEadFz2KTwMKL5NDtEJRSrOGaSXkeWTAA=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Tue, 11 Aug 2026 22:46:57 -0600</pubDate>
             <link>https://github.com/timaholic/liverack-releases/releases</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/timaholic/liverack-releases/releases/download/v0.3.0/LiveRack-0.3.0.dmg" length="5366920" type="application/octet-stream" sparkle:edSignature="et5XRBDdhHRlZb/tF8B7AnWzHMawsK73Nl7tMD7oTzF/nYElmaIqp55aPXc1vQi2MNlCakgJWLzMOwpmkfjbAQ=="/>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Tue, 11 Aug 2026 01:33:49 -0600</pubDate>
-            <link>https://github.com/timaholic/liverack-releases/releases</link>
-            <sparkle:version>0.2.2</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/timaholic/liverack-releases/releases/download/v0.2.2/LiveRack-0.2.2.dmg" length="5138699" type="application/octet-stream" sparkle:edSignature="TEm4IeFyaa7AJuZaKZp1rcULB/a6VSIr+g7ZPmhMXHJmM+WR4Ed4aw9Sgw7jWjxg0/UW7zOVUcff1NJQOFQuAA=="/>
         </item>
     </channel>
 </rss>
